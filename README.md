@@ -1,3 +1,8 @@
+> [!NOTE]
+> This repository is a personal and speculative work.
+> It does not claim affiliation with any company, product,
+> or existing artificial intelligence system.
+
 # MYTHOSFICTION
 
 ### Une balise laissée dans l'océan numérique.
